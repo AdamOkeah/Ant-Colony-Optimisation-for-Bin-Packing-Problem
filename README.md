@@ -126,8 +126,8 @@ This project is inspired by the Ant Colony Optimization metaheuristic, which is 
 
 ## Contact
 For questions or suggestions, please contact:
-- **Author**: Adam
-- **Email**: <your_email@example.com>
+- **Author**: Adam Okeahalam 
+- **Email**: adamokeahalam@gmail.com
 
 Feel free to contribute or raise issues in this repository!
 
